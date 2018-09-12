@@ -1,4 +1,4 @@
-package it.dstech.config;
+package it.marco.config;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

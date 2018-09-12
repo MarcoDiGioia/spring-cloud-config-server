@@ -1,4 +1,4 @@
-package it.dstech.config;
+package it.marco.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
